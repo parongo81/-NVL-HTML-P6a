@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Clasificacion LaLiga Santander</title>
+	</head>
+	<body>
+		<h1 ><font color="red"><img src="/Users/pacoroncerogonzalez/LaLiga Santander.png" alt="LaLiga" width="60" title="La Liga" > Clasificacion LaLiga Santander<img src="/Users/pacoroncerogonzalez/LaLiga Santander.png" alt="LaLiga" width="60" title="La Liga" ></h1>
+		<ol>
+				<font color="black">
+				<li>Real madrid: 15 puntos</li>
+				<li>Granada: 14 puntos</li>
+				<li>Atletico de Madrid: 14 puntos</li>
+				<li>Barcelona: 13 puntos</li>
+				<li>Real Sociedad: 13 puntos</li>
+				<li>Sevilla: 13 puntos</li>
+				<li>Atletic de Bilbao: 12 puntos</li>		
+				<li>Villareal: 11 puntos</li>
+				<li>Valencia: 9 puntos</li>
+				<li>Valladolid: 9 puntos</li>
+				<li>Eibar: 8 puntos</li>
+				<li>Levante: 8 puntos</li>
+				<li>Osasuna: 8 puntos</li>
+				<li>Alaves: 8 puntos</li>
+				<li>Betis: 8 puntos</li>
+				<li>Getafe: 7 puntos</li>
+				<li>Centa de Vigo: 6 puntos</li>
+				<li>Español: 5 puntos</li>
+				<li>Mallorca: 4 puntos</li>
+				<li>Leganes: 2 puntos</li>
+			</ol>
+			<p>*clasificacion actualizada a jornada 7*</p>
+	</body>
+</html>
